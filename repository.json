@@ -4,9 +4,9 @@
         "contact": {
             "web": "https://github.com/soburi/my-kicad-addon/"
         },
-        "name": "My Repository Maintainer"
+        "name": "My KiCad Repository Maintainer"
     },
-    "name": "KiCad official repository",
+    "name": "My KiCad repository",
     "packages": {
         "sha256": "012d5b1c8942feb7555f4ac1585243ff4b29292979ed9971af0b708d26546aca",
         "update_time_utc": "2022-05-08 23:25:44",
