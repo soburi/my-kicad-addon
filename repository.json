@@ -1,0 +1,22 @@
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "maintainer": {
+        "contact": {
+            "web": "https://github.com/soburi/my-kicad-addon/"
+        },
+        "name": "My Repository Maintainer"
+    },
+    "name": "KiCad official repository",
+    "packages": {
+        "sha256": "012d5b1c8942feb7555f4ac1585243ff4b29292979ed9971af0b708d26546aca",
+        "update_time_utc": "2022-05-08 23:25:44",
+        "update_timestamp": 1652019944,
+        "url": "https://raw.githubusercontent.com/soburi/my-kicad-addon/main/packages.json"
+    },
+    "resources": {
+        "sha256": "e627f1435b22526ef5675fc5b53450a2a4b3bc613f6dde320acfb3b4d605e51c",
+        "update_time_utc": "2022-05-08 23:17:49",
+        "update_timestamp": 1652019469,
+        "url": "https://raw.githubusercontent.com/soburi/my-kicad-addon/main/resources.zip"
+    }
+}
