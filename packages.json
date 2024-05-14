@@ -19,12 +19,12 @@
 	    },
 	    "versions": [
 		{
-                    "download_sha256": "181b91dec1554cfb01206723f31ea84aa911a8775056746571d0acfd1c3e38b1",
-                    "download_size": 3967,
-                    "download_url": "https://github.com/soburi/my-kicad-plugin/archive/refs/tags/v0.0.1.zip",
+                    "download_sha256": "3a48a1429817ba99071ad190ffe6edab45d7c4572753de051037b99960d96056",
+                    "download_size": 909,
+                    "download_url": "https://raw.githubusercontent.com/soburi/my-kicad-plugin/main/cqpub-jumper-example-1.0.0.zip",
 		    "version": "1.0",
 		    "status": "stable",
-		    "kicad_version": "6.0"
+		    "kicad_version": "8.0"
 		}
 	    ]
 	}
