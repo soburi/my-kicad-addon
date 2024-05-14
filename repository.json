@@ -14,9 +14,9 @@
         "url": "https://soburi.github.io/my-kicad-plugin/packages.json"
     },
     "resources": {
-        "sha256": "d9b3cc13c5a7d00cf0399dd6b85c76af49f8441bda13aca1701876d3eaef55f8",
-        "update_time_utc": "2024-05-15 07:51:54",
-        "update_timestamp": 1715727114,
+        "sha256": "50e3077f60f93dfaeeebee685fd35e32b34d47cceb50f21797c8ea843ff0ab64",
+        "update_time_utc": "2024-05-15 07:16:28",
+        "update_timestamp": 1715724988,
         "url": "https://soburi.github.io/my-kicad-plugin/resources.zip"
     }
 }
