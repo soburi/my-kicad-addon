@@ -2,10 +2,10 @@
     "packages": [
         {
 	    "$schema": "https://go.kicad.org/pcm/schemas/v1",
-	    "name": "My KiCad Addon",
-	    "description": "My First KiCad Addon",
+	    "name": "My KiCad plugin",
+	    "description": "My First KiCad plugin",
 	    "description_full": "Simple Library example",
-	    "identifier": "com.github.soburi.my-kicad-addon",
+	    "identifier": "com.github.soburi.my-kicad-plugin",
 	    "type": "library",
 	    "author": {
 		"name": "soburi",
@@ -15,13 +15,13 @@
 	    },
 	    "license": "CC0-1.0",
 	    "resources": {
-		"homepage": "https://github.com/soburi/my-kicad-addon"
+		"homepage": "https://github.com/soburi/my-kicad-plugin"
 	    },
 	    "versions": [
 		{
                     "download_sha256": "181b91dec1554cfb01206723f31ea84aa911a8775056746571d0acfd1c3e38b1",
                     "download_size": 3967,
-                    "download_url": "https://github.com/soburi/my-kicad-addon/archive/refs/tags/v0.0.1.zip",
+                    "download_url": "https://github.com/soburi/my-kicad-plugin/archive/refs/tags/v0.0.1.zip",
 		    "version": "1.0",
 		    "status": "stable",
 		    "kicad_version": "6.0"
