@@ -15,8 +15,8 @@
     },
     "resources": {
         "sha256": "e627f1435b22526ef5675fc5b53450a2a4b3bc613f6dde320acfb3b4d605e51c",
-        "update_time_utc": "2022-05-08 23:17:49",
-        "update_timestamp": 1652019469,
+        "update_time_utc": "2024-05-15 07:16:28",
+        "update_timestamp": 1715724988,
         "url": "https://raw.githubusercontent.com/soburi/my-kicad-plugin/main/resources.zip"
     }
 }
