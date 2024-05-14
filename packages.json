@@ -21,7 +21,7 @@
 		{
                     "download_sha256": "808649fa0565f084a90e66e93838691ccc2fe7e6f4ecbbdadbcaff40ad0e4e10",
                     "download_size": 3762,
-                    "download_url": "https://raw.githubusercontent.com/soburi/my-kicad-plugin/main/cqpub-jumper-example-1.0.0.zip",
+                    "download_url": "https://soburi.github.io/my-kicad-plugin/cqpub-jumper-example-1.0.0.zip",
 		    "version": "1.0",
 		    "status": "stable",
 		    "kicad_version": "8.0"
