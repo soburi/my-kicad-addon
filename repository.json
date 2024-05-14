@@ -8,9 +8,9 @@
     },
     "name": "My KiCad repository",
     "packages": {
-        "sha256": "32a62196611dd0ec602e3bac5da03b3471b9080fe797392315d7b9511e6f8920",
-        "update_time_utc": "2024-05-15 07:02:47",
-        "update_timestamp": 1715724167,
+        "sha256": "9fc390418e1bb37dfaa9f73413ca470077f76530a9d9800c9d6a8178197e2c49",
+        "update_time_utc": "2024-05-15 07:42:36",
+        "update_timestamp": 1715726556,
         "url": "https://raw.githubusercontent.com/soburi/my-kicad-plugin/main/packages.json"
     },
     "resources": {
